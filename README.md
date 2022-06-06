@@ -1,4 +1,4 @@
-# **Projeyo**
+# **Projeto**
 Fórum criado usando Spring Framework e Thymeleaf.
 
 
